@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,n,s){"use strict";s.r(n);var u=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("要永远的积极向上啊，少年。")])])}],c=s("2877"),e={},i=Object(c["a"])(e,u,a,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=about.b47d0e6e.js.map
