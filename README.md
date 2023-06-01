@@ -1,21 +1,21 @@
 # resource-website
 
-## Project setup
+## 项目配置
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译和热加载用于开发
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译和最小化产品
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 检查和修复文件
 ```
 npm run lint
 ```
